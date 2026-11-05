@@ -1,0 +1,18 @@
+{
+  "screens": 56,
+  "nodes": 12679,
+  "types": {
+    "rect": 3147,
+    "svg": 2190,
+    "text": 7204,
+    "image": 138
+  },
+  "fonts": [
+    "IBM Plex Sans Thai",
+    "Prompt",
+    "ui-monospace"
+  ],
+  "imageWarnings": [
+    "https://images.unsplash.com/photo-1502005229762-ee1b2b8ab00f?auto=format&fit=crop&w=800&q=80"
+  ]
+}

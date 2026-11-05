@@ -1,0 +1,4 @@
+<!doctype html><html><meta charset="utf-8"><body style="font:14px system-ui;padding:18px;background:#f8fafc;color:#0f172a"><h2>CondoFlow — Import all screens</h2><p>เลือกไฟล์ CondoFlow-all-screens.json เพื่อสร้างหน้าจอที่แก้ไขข้อความ รูปทรง และไอคอนได้</p><input id="file" type="file" accept=".json"><p id="status">ใช้ฟอนต์ IBM Plex Sans Thai และ Prompt</p><p>Import uses local files only. No network access.</p><script>
+document.getElementById('file').onchange=async e=>{try{const data=JSON.parse(await e.target.files[0].text());parent.postMessage({pluginMessage:{type:'import',screens:data.screens}},'*');document.getElementById('status').textContent='กำลังนำเข้า…'}catch(err){document.getElementById('status').textContent=String(err)}};
+onmessage=e=>{if(e.data.pluginMessage)document.getElementById('status').textContent=e.data.pluginMessage.status};
+</script></body></html>
