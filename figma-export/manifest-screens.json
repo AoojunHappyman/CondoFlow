@@ -1,0 +1,338 @@
+[
+  {
+    "id": "01-admin-login",
+    "role": "admin",
+    "route": "/login",
+    "extra": ""
+  },
+  {
+    "id": "02-admin-register",
+    "role": "admin",
+    "route": "/register",
+    "extra": ""
+  },
+  {
+    "id": "03-admin-forgot-password",
+    "role": "admin",
+    "route": "/forgot-password",
+    "extra": ""
+  },
+  {
+    "id": "04-admin-dashboard",
+    "role": "admin",
+    "route": "/admin/dashboard",
+    "extra": ""
+  },
+  {
+    "id": "05-admin-system-coverage",
+    "role": "admin",
+    "route": "/admin/system-coverage",
+    "extra": ""
+  },
+  {
+    "id": "06-admin-units",
+    "role": "admin",
+    "route": "/admin/units",
+    "extra": ""
+  },
+  {
+    "id": "07-admin-owners-tenants",
+    "role": "admin",
+    "route": "/admin/owners-tenants",
+    "extra": ""
+  },
+  {
+    "id": "08-admin-contracts",
+    "role": "admin",
+    "route": "/admin/contracts",
+    "extra": ""
+  },
+  {
+    "id": "09-admin-invoices",
+    "role": "admin",
+    "route": "/admin/invoices",
+    "extra": ""
+  },
+  {
+    "id": "10-admin-payments",
+    "role": "admin",
+    "route": "/admin/payments",
+    "extra": ""
+  },
+  {
+    "id": "11-admin-repairs",
+    "role": "admin",
+    "route": "/admin/repairs",
+    "extra": ""
+  },
+  {
+    "id": "12-admin-parcels",
+    "role": "admin",
+    "route": "/admin/parcels",
+    "extra": ""
+  },
+  {
+    "id": "13-admin-announcements",
+    "role": "admin",
+    "route": "/admin/announcements",
+    "extra": ""
+  },
+  {
+    "id": "14-admin-reports",
+    "role": "admin",
+    "route": "/admin/reports",
+    "extra": ""
+  },
+  {
+    "id": "15-admin-roles",
+    "role": "admin",
+    "route": "/admin/roles",
+    "extra": ""
+  },
+  {
+    "id": "16-admin-audit-log",
+    "role": "admin",
+    "route": "/admin/audit-log",
+    "extra": ""
+  },
+  {
+    "id": "17-admin-settings",
+    "role": "admin",
+    "route": "/admin/settings",
+    "extra": ""
+  },
+  {
+    "id": "18-admin-unit-detail",
+    "role": "admin",
+    "route": "/units/unit-a-1205",
+    "extra": ""
+  },
+  {
+    "id": "19-admin-profile",
+    "role": "admin",
+    "route": "/profile",
+    "extra": ""
+  },
+  {
+    "id": "20-admin-notifications",
+    "role": "admin",
+    "route": "/notifications",
+    "extra": ""
+  },
+  {
+    "id": "21-admin-history",
+    "role": "admin",
+    "route": "/history",
+    "extra": ""
+  },
+  {
+    "id": "22-admin-team",
+    "role": "admin",
+    "route": "/team",
+    "extra": ""
+  },
+  {
+    "id": "23-owner-dashboard",
+    "role": "owner",
+    "route": "/dashboard",
+    "extra": ""
+  },
+  {
+    "id": "24-owner-units",
+    "role": "owner",
+    "route": "/owner/units",
+    "extra": ""
+  },
+  {
+    "id": "25-owner-unit-detail",
+    "role": "owner",
+    "route": "/units/unit-a-1205",
+    "extra": ""
+  },
+  {
+    "id": "26-owner-contracts",
+    "role": "owner",
+    "route": "/owner/contracts",
+    "extra": ""
+  },
+  {
+    "id": "27-owner-invoices",
+    "role": "owner",
+    "route": "/owner/expenses",
+    "extra": ""
+  },
+  {
+    "id": "28-owner-parcels",
+    "role": "owner",
+    "route": "/parcels",
+    "extra": ""
+  },
+  {
+    "id": "29-owner-repairs",
+    "role": "owner",
+    "route": "/maintenance",
+    "extra": ""
+  },
+  {
+    "id": "30-owner-announcements",
+    "role": "owner",
+    "route": "/announcements",
+    "extra": ""
+  },
+  {
+    "id": "31-owner-history",
+    "role": "owner",
+    "route": "/history",
+    "extra": ""
+  },
+  {
+    "id": "32-owner-profile",
+    "role": "owner",
+    "route": "/profile",
+    "extra": ""
+  },
+  {
+    "id": "33-owner-notifications",
+    "role": "owner",
+    "route": "/notifications",
+    "extra": ""
+  },
+  {
+    "id": "34-tenant-dashboard",
+    "role": "tenant",
+    "route": "/dashboard",
+    "extra": ""
+  },
+  {
+    "id": "35-tenant-units",
+    "role": "tenant",
+    "route": "/units",
+    "extra": ""
+  },
+  {
+    "id": "36-tenant-unit-detail",
+    "role": "tenant",
+    "route": "/units/unit-a-1205",
+    "extra": ""
+  },
+  {
+    "id": "37-tenant-contracts",
+    "role": "tenant",
+    "route": "/contracts",
+    "extra": ""
+  },
+  {
+    "id": "38-tenant-invoices",
+    "role": "tenant",
+    "route": "/invoices",
+    "extra": ""
+  },
+  {
+    "id": "39-tenant-parcels",
+    "role": "tenant",
+    "route": "/parcels",
+    "extra": ""
+  },
+  {
+    "id": "40-tenant-repairs",
+    "role": "tenant",
+    "route": "/maintenance",
+    "extra": ""
+  },
+  {
+    "id": "41-tenant-announcements",
+    "role": "tenant",
+    "route": "/announcements",
+    "extra": ""
+  },
+  {
+    "id": "42-tenant-history",
+    "role": "tenant",
+    "route": "/history",
+    "extra": ""
+  },
+  {
+    "id": "43-tenant-profile",
+    "role": "tenant",
+    "route": "/profile",
+    "extra": ""
+  },
+  {
+    "id": "44-tenant-notifications",
+    "role": "tenant",
+    "route": "/notifications",
+    "extra": ""
+  },
+  {
+    "id": "45-user-dashboard",
+    "role": "user",
+    "route": "/dashboard",
+    "extra": ""
+  },
+  {
+    "id": "46-user-units",
+    "role": "user",
+    "route": "/units",
+    "extra": ""
+  },
+  {
+    "id": "47-user-unit-detail",
+    "role": "user",
+    "route": "/units/unit-a-1205",
+    "extra": ""
+  },
+  {
+    "id": "48-user-repairs",
+    "role": "user",
+    "route": "/maintenance",
+    "extra": ""
+  },
+  {
+    "id": "49-user-announcements",
+    "role": "user",
+    "route": "/announcements",
+    "extra": ""
+  },
+  {
+    "id": "50-user-history",
+    "role": "user",
+    "route": "/history",
+    "extra": ""
+  },
+  {
+    "id": "51-user-profile",
+    "role": "user",
+    "route": "/profile",
+    "extra": ""
+  },
+  {
+    "id": "52-user-notifications",
+    "role": "user",
+    "route": "/notifications",
+    "extra": ""
+  },
+  {
+    "id": "53-admin-error-403",
+    "role": "admin",
+    "route": "/error/403",
+    "extra": ""
+  },
+  {
+    "id": "54-admin-error-404",
+    "role": "admin",
+    "route": "/error/404",
+    "extra": ""
+  },
+  {
+    "id": "55-admin-error-500",
+    "role": "admin",
+    "route": "/error/500",
+    "extra": ""
+  },
+  {
+    "id": "56-tenant-system-maintenance",
+    "role": "tenant",
+    "route": "/dashboard",
+    "extra": "&maintenance=1"
+  }
+]
