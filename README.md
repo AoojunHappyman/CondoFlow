@@ -316,6 +316,6 @@
 | 2 | **Pattanachai Sawetbunchoed**<br>*(พัฒนชัย เศวตบรรเจิด)* | **Frontend Engineer & UI Architect**<br>ออกแบบ Component Architecture, ระบบ Responsive Mobile และกระดานซ่อมบำรุง Kanban Board | DFD 4 & Mobile UX |
 | 3 | **Phattaranan Bunlalert**<br>*(ภัทรนันท์ บุญละเลิศ)* | **UX/UI Designer & Design System Specialist**<br>ออกแบบ Design System โทนสี Brand Tokens, Dark/Light Mode และแดชบอร์ดทั้ง 4 บทบาท | UX/UI All Modules |
 | 4 | **Aunthikarn Neamtang**<br>*(อันธิการ เนียมแตง)* | **Business Analyst & Requirements Engineer**<br>วิเคราะห์ข้อกำหนด 25 FR, วางตารางสิทธิ์ RBAC Matrix และกฎทางธุรกิจ Active Lease Guard | 25 FR & RBAC Matrix |
-| 5 | **Thanyathon Kitsakun**<br>*(ธัญธร กิจสกุล)* | **QA Engineer & Security Specialist**<br>ดูแลความมั่นคงปลอดภัย PDPA Data Masking, ระบบเตือน Session Timeout 30 นาที และ Error 403/404/500 | Security & NFR |
+| 5 | **Thanyathon Kitsakun**<br>*(ธัญยธร กิจสกุล)* | **QA Engineer & Security Specialist**<br>ดูแลความมั่นคงปลอดภัย PDPA Data Masking, ระบบเตือน Session Timeout 30 นาที และ Error 403/404/500 | Security & NFR |
 | 6 | **Rawinan Bunsai**<br>*(รวินันท์ บุญใส่)* | **Database & Data Analytics Engineer**<br>ออกแบบ Data Models, พัฒนาระบบรายงานสถิติ Recharts 5 มิติ, และระบบ Immutable Audit Log | DFD 5 & DFD 7 |
 
